@@ -257,13 +257,13 @@ nav {
     letter-spacing: 2px;
   }
   .mtitle{
-    font-size: 38px;
+    font-size: 32px;
     width: 332px;
   }
 }
 @media screen and (max-width:365px) {
   .content1{
-    margin-left: 35px;
+    margin-left: 30px;
   }
   .stitle{
     font-size: 15px;
